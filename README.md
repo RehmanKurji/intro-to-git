@@ -15,3 +15,7 @@ git status
 ### Committing to Git
 
 git commit -m "<MESSAGE>"
+
+### View History
+
+git log
