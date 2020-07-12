@@ -47,7 +47,7 @@ git checkout -b <BRANCH NAME>
 
 git checkout <BRANCH NAME>
 
-### Merging branches
+### Merging Branches
 
 git merge <BRANCH NAME>
 
