@@ -49,5 +49,8 @@ git checkout <BRANCH NAME>
 
 ### Merging Branches
 
-git merge <BRANCH NAME>
+git merge <BRANCH NAME> -m ""
 
+### Removing Branch (not recommended)
+
+git branch -d <BRANCH NAME>
