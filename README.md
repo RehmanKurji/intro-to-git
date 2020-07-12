@@ -34,3 +34,17 @@ git add *.<FILETYPE EXTENSION (ie html)>
 ### Remove File (before commit)
 
 git reset HEAD <FILENAME>
+
+### Listing Branches
+
+git branch
+
+### Create Branch
+
+git checkout -b <BRANCH NAME>
+
+### Switching Branches
+
+git checkout <BRANCH NAME>
+
+
